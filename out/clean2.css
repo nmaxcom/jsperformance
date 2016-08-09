@@ -1,0 +1,204 @@
+body {
+    background-color: #252830;
+    color: #fff
+}
+
+li {
+    list-style: none
+}
+
+.col-center {
+    float: none;
+    margin-left: auto;
+    margin-right: auto
+}
+
+#titleblock {
+    color: #cfd2da;
+    height: 61.5px;
+    outline: 0 none #cfd2da;
+    width: 847.5px
+}
+
+#title, #titleblock {
+    border: 0 none #cfd2da;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif
+}
+
+#title {
+    float: left
+}
+
+h6 {
+    border: 0 none #434857;
+    color: #434857;
+    font: normal normal normal normal 11.9px/13.09px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 13px;
+    letter-spacing: 1px;
+    margin: 0 0 5px;
+    outline: 0 none #434857
+}
+
+h2 {
+    color: #fff;
+    font: normal normal 300 normal 30px/33px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif
+}
+
+hr {
+    border-bottom: 0 none #cfd2da;
+    border-left: 0 none #cfd2da;
+    border-right: 0 none #cfd2da;
+    border-top: 1px solid #434857;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 20px 0 30px;
+    outline: 0 none #cfd2da;
+    width: 100%
+}
+
+h3, hr {
+    color: #cfd2da
+}
+
+h3 {
+    font: normal normal 300 normal 12px/20px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif
+}
+
+#statsblock {
+    height: 192px;
+    margin: 0 -15px;
+    width: 877.5px
+}
+
+#div_10, #div_18, #div_26, #div_34, #statsblock {
+    border: 0 none #cfd2da;
+    color: #cfd2da;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    outline: 0 none #cfd2da
+}
+
+#div_10, #div_18, #div_26, #div_34 {
+    bottom: 0;
+    float: left;
+    height: 172px;
+    left: 0;
+    margin: 0 0 20px;
+    min-height: 1px;
+    padding: 0 15px;
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 219px
+}
+
+#div_11 {
+    background: #1bc98e none repeat scroll 0 0 padding-box border-box;
+    border: 0 none #fff;
+    height: 172px
+}
+
+#div_11, #div_12, #div_20, #div_28, #div_36 {
+    color: #fff;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    outline: 0 none #fff;
+    width: 189.375px
+}
+
+#div_12, #div_20, #div_28, #div_36 {
+    border: 0 none #fff;
+    height: 125px;
+    padding: 20px
+}
+
+#span_13, #span_21, #span_29, #span_37 {
+    border: 0 none hsla(0, 0%, 100%, .65098);
+    color: hsla(0, 0%, 100%, .65098);
+    font: normal normal normal normal 11.9px/17.85px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    letter-spacing: 1.785px;
+    outline: 0 none hsla(0, 0%, 100%, .65098);
+    text-transform: uppercase
+}
+
+#h2_14, #h2_22, #h2_30, #h2_38 {
+    font: normal normal normal normal 30px/33px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 33px;
+    margin: 0;
+    width: 149.375px
+}
+
+#small_15 {
+    display: inline-block;
+    font: normal normal normal normal 12px/12px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 21.5938px;
+    padding: 4.8px;
+    vertical-align: middle;
+    width: 35.1406px
+}
+
+hr.small {
+    border-bottom: 0 none #fff;
+    border-left: 0 none #fff;
+    border-right: 0 none #fff;
+    border-top: 1px solid hsla(0, 0%, 100%, .2);
+    color: #fff;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    margin: 30px -20px 0;
+    outline: 0 none #fff;
+    width: 189.375px
+}
+
+#canvas_17, #canvas_25, #canvas_33, #canvas_41 {
+    display: block;
+    height: 47px;
+    width: 189px
+}
+
+#canvas_17, #canvas_25, #canvas_33, #canvas_41, #div_19 {
+    border: 0 none #fff;
+    color: #fff;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    outline: 0 none #fff
+}
+
+#div_19 {
+    background: #e64759 none repeat scroll 0 0 padding-box border-box;
+    height: 172px;
+    width: 189.375px
+}
+
+#small_23, #small_39 {
+    display: inline-block;
+    font: normal normal normal normal 12px/12px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 21.5938px;
+    padding: 4.8px;
+    vertical-align: middle;
+    width: 45.0938px
+}
+
+#div_27 {
+    background: #9f86ff none repeat scroll 0 0 padding-box border-box;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 172px;
+    width: 189.375px
+}
+
+#small_31 {
+    display: inline-block;
+    font: normal normal normal normal 12px/12px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 21.5938px;
+    padding: 4.8px;
+    vertical-align: middle;
+    width: 51.8594px
+}
+
+#div_35 {
+    background: #e4d836 none repeat scroll 0 0 padding-box border-box;
+    font: normal normal 300 normal 14px/21px Roboto, Helvetica Neue, Helvetica, Arial, sans-serif;
+    height: 172px;
+    width: 189.375px
+}
+
+#h2_14, #h2_22, #h2_30, #h2_38, #small_15, #div_27, #small_23, #small_39, #div_35, #small_31 {
+    border: 0 none #fff;
+    color: #fff;
+    outline: 0 none #fff
+}

@@ -1,0 +1,283 @@
+body{
+    background-color: #252830;
+    color: white;
+}
+li{
+        list-style: none;
+}
+.col-center {
+    float: none;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#titleblock {
+    box-sizing: border-box;
+    color: rgb(207, 210, 218);
+    height: 61.5px;
+    width: 847.5px;
+    column-rule-color: rgb(207, 210, 218);
+    perspective-origin: 423.75px 30.75px;
+    transform-origin: 423.75px 30.75px;
+    border: 0 none rgb(207, 210, 218);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(207, 210, 218) none 0;
+}/*#DIV_2*/
+
+
+#title {
+    float: left;
+    border: 0 none rgb(207, 210, 218);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}/*#DIV_3*/
+
+h6 {
+    box-sizing: border-box;
+    color: rgb(67, 72, 87);
+    height: 13px;
+    letter-spacing: 1px;
+    border: 0 none rgb(67, 72, 87);
+    font: normal normal normal normal 11.9px / 13.09px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 0 5px;
+    outline: rgb(67, 72, 87) none 0;
+}/*#H6_4*/
+
+h2 {
+    color: rgb(255, 255, 255);
+    font: normal normal 300 normal 30px / 33px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}/*#H2_5*/
+
+hr {
+    color: rgb(207, 210, 218);
+    width: 100%;
+    column-rule-color: rgb(207, 210, 218);
+    perspective-origin: 423.75px 0.5px;
+    transform-origin: 423.75px 0.5px;
+    border-top: 1px solid rgb(67, 72, 87);
+    border-right: 0 none rgb(207, 210, 218);
+    border-bottom: 0 none rgb(207, 210, 218);
+    border-left: 0 none rgb(207, 210, 218);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 20px 0 30px;
+    outline: rgb(207, 210, 218) none 0;
+}
+
+h3 {
+    color: rgb(207, 210, 218);
+    font: normal normal 300 normal 12px / 20px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+#statsblock {
+    box-sizing: border-box;
+    color: rgb(207, 210, 218);
+    height: 192px;
+    width: 877.5px;
+    column-rule-color: rgb(207, 210, 218);
+    perspective-origin: 438.75px 96px;
+    transform-origin: 438.75px 96px;
+    border: 0 none rgb(207, 210, 218);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 -15px;
+    outline: rgb(207, 210, 218) none 0;
+}/*#DIV_9*/
+
+#DIV_10, #DIV_18, #DIV_26, #DIV_34 {
+    bottom: 0;
+    box-sizing: border-box;
+    color: rgb(207, 210, 218);
+    float: left;
+    height: 172px;
+    left: 0;
+    min-height: 1px;
+    position: relative;
+    right: 0;
+    top: 0;
+    width: 219px;
+    column-rule-color: rgb(207, 210, 218);
+    perspective-origin: 109.688px 86px;
+    transform-origin: 109.688px 86px;
+    border: 0 none rgb(207, 210, 218);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0 0 20px;
+    outline: rgb(207, 210, 218) none 0;
+    padding: 0 15px;
+}/*#DIV_10, #DIV_18, #DIV_26, #DIV_34*/
+
+#DIV_11 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 172px;
+    width: 189.375px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 94.6875px 86px;
+    transform-origin: 94.6875px 86px;
+    background: rgb(27, 201, 142) none repeat scroll 0 0 / auto padding-box border-box;
+    border: 0 none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+}/*#DIV_11*/
+
+#DIV_12, #DIV_20, #DIV_28, #DIV_36 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 125px;
+    width: 189.375px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 94.6875px 62.5px;
+    transform-origin: 94.6875px 62.5px;
+    border: 0 none rgb(255, 255, 255);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+    padding: 20px;
+}/*#DIV_12, #DIV_20, #DIV_28, #DIV_36*/
+
+#SPAN_13, #SPAN_21, #SPAN_29, #SPAN_37 {
+    box-sizing: border-box;
+    color: rgba(255, 255, 255, 0.65098);
+    letter-spacing: 1.785px;
+    text-transform: uppercase;
+    column-rule-color: rgba(255, 255, 255, 0.65098);
+    border: 0 none rgba(255, 255, 255, 0.65098);
+    font: normal normal normal normal 11.9px / 17.85px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgba(255, 255, 255, 0.65098) none 0;
+}/*#SPAN_13, #SPAN_21, #SPAN_29, #SPAN_37*/
+
+#H2_14, #H2_22, #H2_30, #H2_38 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 33px;
+    width: 149.375px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 74.6875px 16.5px;
+    transform-origin: 74.6875px 16.5px;
+    border: 0 none rgb(255, 255, 255);
+    font: normal normal normal normal 30px / 33px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 0;
+    outline: rgb(255, 255, 255) none 0;
+}/*#H2_14, #H2_22, #H2_30, #H2_38*/
+
+#SMALL_15 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 21.5938px;
+    vertical-align: middle;
+    width: 35.1406px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 17.5625px 10.7969px;
+    transform-origin: 17.5625px 10.7969px;
+    border: 0 none rgb(255, 255, 255);
+    font: normal normal normal normal 12px / 12px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+    padding: 4.8px;
+}/*#SMALL_15*/
+
+
+
+hr.small {
+    color: rgb(255, 255, 255);
+    width: 189.375px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 94.6875px 0.5px;
+    transform-origin: 94.6875px 0.5px;
+    border-top: 1px solid rgba(255, 255, 255, 0.2);
+    border-right: 0 none rgb(255, 255, 255);
+    border-bottom: 0 none rgb(255, 255, 255);
+    border-left: 0 none rgb(255, 255, 255);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    margin: 30px -20px 0;
+    outline: rgb(255, 255, 255) none 0;
+}
+
+#CANVAS_17, #CANVAS_25, #CANVAS_33, #CANVAS_41 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: block;
+    height: 47px;
+    width: 189px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 94.5px 23.5px;
+    transform-origin: 94.5px 23.5px;
+    border: 0 none rgb(255, 255, 255);
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+}/*#CANVAS_17, #CANVAS_25, #CANVAS_33, #CANVAS_41*/
+
+#DIV_19 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 172px;
+    width: 189.375px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 94.6875px 86px;
+    transform-origin: 94.6875px 86px;
+    background: rgb(230, 71, 89) none repeat scroll 0 0 / auto padding-box border-box;
+    border: 0 none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+}/*#DIV_19*/
+
+#SMALL_23, #SMALL_39 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 21.5938px;
+    vertical-align: middle;
+    width: 45.0938px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 22.5469px 10.7969px;
+    transform-origin: 22.5469px 10.7969px;
+    border: 0 none rgb(255, 255, 255);
+    font: normal normal normal normal 12px / 12px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+    padding: 4.8px;
+}/*#SMALL_23, #SMALL_39*/
+
+#DIV_27 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 172px;
+    width: 189.375px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 94.6875px 86px;
+    transform-origin: 94.6875px 86px;
+    background: rgb(159, 134, 255) none repeat scroll 0 0 / auto padding-box border-box;
+    border: 0 none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+}/*#DIV_27*/
+
+#SMALL_31 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    display: inline-block;
+    height: 21.5938px;
+    vertical-align: middle;
+    width: 51.8594px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 25.9219px 10.7969px;
+    transform-origin: 25.9219px 10.7969px;
+    border: 0 none rgb(255, 255, 255);
+    font: normal normal normal normal 12px / 12px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+    padding: 4.8px;
+}/*#SMALL_31*/
+
+
+#DIV_35 {
+    box-sizing: border-box;
+    color: rgb(255, 255, 255);
+    height: 172px;
+    width: 189.375px;
+    column-rule-color: rgb(255, 255, 255);
+    perspective-origin: 94.6875px 86px;
+    transform-origin: 94.6875px 86px;
+    background: rgb(228, 216, 54) none repeat scroll 0 0 / auto padding-box border-box;
+    border: 0 none rgb(255, 255, 255);
+    border-radius: 3px 3px 3px 3px;
+    font: normal normal 300 normal 14px / 21px Roboto, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    outline: rgb(255, 255, 255) none 0;
+}/*#DIV_35*/

@@ -1,0 +1,22 @@
+{
+  "name": "jsperformance",
+  "version": "1.0.0",
+  "description": "Benchmark.js performance tester",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nmaxcom/jsperformance.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nmaxcom/jsperformance/issues"
+  },
+  "homepage": "https://github.com/nmaxcom/jsperformance#readme",
+  "dependencies": {
+    "uncss": "^0.14.1"
+  }
+}

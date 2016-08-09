@@ -54,7 +54,7 @@ window.onload = function() {
                     .appendChild(result);
             })
             .on('complete', function() {
-                result.textContent = 'Fastest is ' + this.filter('fastest').pluck('name');
+                result.textContent = 'Fastest is ' + this.filter('fastest').map('name');
                 btn.setAttribute('disable', false);
             })
             // run async
